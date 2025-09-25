@@ -41,3 +41,4 @@ int main()
 <img width="1213" height="450" alt="Screenshot 2025-09-25 210617" src="https://github.com/user-attachments/assets/fec14cfd-3655-488e-a962-8cc802992d27" />
 
 # RESULT:
+The program has been executed successfully.
